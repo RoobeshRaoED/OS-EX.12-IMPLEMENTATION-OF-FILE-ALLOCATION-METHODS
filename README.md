@@ -40,7 +40,8 @@ scanf("%d", &c);
 if(c==1)
 goto x;
 else
-exit();
+exit(0);
+getch();
 }
 ```
 
