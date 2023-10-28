@@ -47,7 +47,7 @@ getch();
 
 ## OUTPUT:
 
-![]()
+![](12.1.png)
 
 ## RESULT:
 
@@ -117,7 +117,7 @@ getch();
 
 ## OUTPUT:
 
-![]()
+![](12.2.png)
 
 ## RESULT:
 
@@ -184,7 +184,7 @@ return 0;
 
 ## OUTPUT:
 
-![]()
+![](12.3.png)
 
 ## RESULT:
 
